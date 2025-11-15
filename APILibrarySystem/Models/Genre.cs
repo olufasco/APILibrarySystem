@@ -2,13 +2,12 @@
 
 namespace APILibrarySystem.Models
 {
-    public class Genre
+    public class Genre : BaseEntity
     {
-        public int Id { get; set; }
         [Required]
-        public string? Name { get; set; }
-        public string? Description { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
 
-        public ICollection<Book>? Books { get; set; }
+        public ICollection<Book> Books { get; set; } = new List<Book>();   
     }
 }
