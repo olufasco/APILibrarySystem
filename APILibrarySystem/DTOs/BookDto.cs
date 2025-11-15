@@ -1,11 +1,13 @@
-﻿namespace APILibrarySystem.DTOs
+﻿using APILibrarySystem.Models;
+
+namespace APILibrarySystem.DTOs
 {
-    public class BookDto
+    public class BookDto : BaseEntity
     {
-        public string? Title { get; set; }
-        public string? ISBN { get; set; }
+        public string Title { get; set; } = default!;
+        public string ISBN { get; set; } = default!;
         public int PublicationYear { get; set; }
-        public int AuthorId { get; set; }
-        public int GenreId { get; set; }
+        public Guid AuthorId { get; set; }
+        public Guid GenreId { get; set; }
     }
 }
