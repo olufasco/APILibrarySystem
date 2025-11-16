@@ -5,15 +5,8 @@ namespace APILibrarySystem.DTOs
 {
     public class AuthorDto : BaseEntity
     {
-
-        [Required]
-        public string FirstName { get; set; } = default!;
-
-        [Required]
-        public string LastName { get; set; } = default!;    
-
-        public string Bio { get; set; } = default!;
-
-        public DateTime DateOfBirth { get; set; }
+        public string FirstName { get; set; } = string.Empty;
+        public string LastName { get; set; } = string.Empty;
+        public string Bio { get; set; } = string.Empty;
     }
 }

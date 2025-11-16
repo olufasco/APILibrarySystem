@@ -14,17 +14,17 @@ namespace APILibrarySystem.Data
                 var author1 = new Author
                 {
                     Id = Guid.NewGuid(),
-                    FirstName = "Chinua",
-                    LastName = "Achebe",
-                    Bio = "Renowned Nigerian novelist and author of 'Things Fall Apart'."
+                    FirstName = "Muhydeen",
+                    LastName = "Adediran",
+                    Bio = "C# Backend Developer and owner of 'Zentrium'."
                 };
 
                 var author2 = new Author
                 {
                     Id = Guid.NewGuid(),
-                    FirstName = "Wole",
-                    LastName = "Soyinka",
-                    Bio = "Nobel Prize-winning playwright and poet from Nigeria."
+                    FirstName = "Oluwasegun",
+                    LastName = "Adedeji",
+                    Bio = "Junior Backend Developer."
                 };
 
                 context.Authors.AddRange(author1, author2);
@@ -32,13 +32,13 @@ namespace APILibrarySystem.Data
                 var genre1 = new Genre
                 {
                     Id = Guid.NewGuid(),
-                    Name = "Historical Fiction"
+                    Name = "Programming"
                 };
 
                 var genre2 = new Genre
                 {
                     Id = Guid.NewGuid(),
-                    Name = "Drama"
+                    Name = "Coding"
                 };
 
                 context.Genres.AddRange(genre1, genre2);
@@ -46,7 +46,7 @@ namespace APILibrarySystem.Data
                 var book1 = new Book
                 {
                     Id = Guid.NewGuid(),
-                    Title = "Things Fall Apart",
+                    Title = "C# Basics",
                     AuthorId = author1.Id,
                     GenreId = genre1.Id,
                     ISBN = "9780199110834"
@@ -55,7 +55,7 @@ namespace APILibrarySystem.Data
                 var book2 = new Book
                 {
                     Id = Guid.NewGuid(),
-                    Title = "Death and the King's Horseman",
+                    Title = "Coding made simple!",
                     AuthorId = author2.Id,
                     GenreId = genre2.Id,
                     ISBN = "9762788299928"

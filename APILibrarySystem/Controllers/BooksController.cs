@@ -1,7 +1,6 @@
 ﻿using APILibrarySystem.DTOs;
 using APILibrarySystem.Models;
 using APILibrarySystem.Repositories;
-using APILibrarySystem.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APILibrarySystem.Controllers

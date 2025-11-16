@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +29,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\apilibrarysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -75,20 +83,12 @@
       "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|solutionrelative:apilibrarysystem\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45E99BD-8F23-4C3D-9200-B2FED8C11332}|APILibrarySystem\\APILibrarySystem.csproj|c:\\users\\user\\source\\repos\\apilibrarysystem\\apilibrarysystem\\repositories\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,245 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:26:02.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Book.cs",
-              "RelativeToolTip": "APILibrarySystem\\Models\\Book.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:14:55.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:24:35.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\BookDto.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\DTOs\\BookDto.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\BookDto.cs",
-              "RelativeToolTip": "APILibrarySystem\\DTOs\\BookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:20:19.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\AuthorDto.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\DTOs\\AuthorDto.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\AuthorDto.cs",
-              "RelativeToolTip": "APILibrarySystem\\DTOs\\AuthorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:20:45.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Genre.cs",
-              "RelativeToolTip": "APILibrarySystem\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:15:31.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "APILibrarySystem\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAIA9wCYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:28:00.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\SeedData.cs",
-              "RelativeToolTip": "APILibrarySystem\\Data\\SeedData.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:31:31.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\appsettings.json",
-              "RelativeDocumentMoniker": "APILibrarySystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\appsettings.json",
-              "RelativeToolTip": "APILibrarySystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T10:50:08.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Program.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Program.cs",
-              "RelativeToolTip": "APILibrarySystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T10:41:50.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\LibraryDbContext.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Data\\LibraryDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\LibraryDbContext.cs",
-              "RelativeToolTip": "APILibrarySystem\\Data\\LibraryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:31:10.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Author.cs",
-              "RelativeToolTip": "APILibrarySystem\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:15:15.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "APILibrarySystem.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\APILibrarySystem.csproj",
-              "RelativeDocumentMoniker": "APILibrarySystem\\APILibrarySystem.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\APILibrarySystem.csproj",
-              "RelativeToolTip": "APILibrarySystem\\APILibrarySystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T08:18:20.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:24:00.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:24:53.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GenreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:26:30.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AgIAAAUAAAAgKQdEtqEwwBQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T10:24:47.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
-              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:26:16.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "APILibrarySystem\\Models\\BaseEntity.cs",
@@ -417,7 +179,249 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "APILibrarySystem\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:28:00.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\SeedData.cs",
+              "RelativeToolTip": "APILibrarySystem\\Data\\SeedData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:31:31.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Program.cs",
+              "RelativeToolTip": "APILibrarySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:41:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Book.cs",
+              "RelativeToolTip": "APILibrarySystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:14:55.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Author.cs",
+              "RelativeToolTip": "APILibrarySystem\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:15:15.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Models\\Genre.cs",
+              "RelativeToolTip": "APILibrarySystem\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:15:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "APILibrarySystem\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:20:19.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "APILibrarySystem\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:28:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\DTOs\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "APILibrarySystem\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:20:45.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:24:35.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\BookRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:26:02.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "APILibrarySystem\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:31:10.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "APILibrarySystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\appsettings.json",
+              "RelativeToolTip": "APILibrarySystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T10:50:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "APILibrarySystem.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\APILibrarySystem.csproj",
+              "RelativeDocumentMoniker": "APILibrarySystem\\APILibrarySystem.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\APILibrarySystem.csproj",
+              "RelativeToolTip": "APILibrarySystem\\APILibrarySystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T08:18:20.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:24:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:24:53.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:26:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAUAAAAgKQdEtqEwwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:24:47.917Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
+              "RelativeToolTip": "APILibrarySystem\\Repositories\\Implementations\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:26:16.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "GenreDto.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\DTOs\\GenreDto.cs",
               "RelativeDocumentMoniker": "APILibrarySystem\\DTOs\\GenreDto.cs",
@@ -425,12 +429,11 @@
               "RelativeToolTip": "APILibrarySystem\\DTOs\\GenreDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:21:08.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T08:21:08.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GenresController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\GenresController.cs",
               "RelativeDocumentMoniker": "APILibrarySystem\\Controllers\\GenresController.cs",
@@ -438,21 +441,7 @@
               "RelativeToolTip": "APILibrarySystem\\Controllers\\GenresController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAUwD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:28:58.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "APILibrarySystem\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\APILibrarySystem\\APILibrarySystem\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "APILibrarySystem\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:28:34.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T08:28:58.082Z"
             },
             {
               "$type": "Document",
@@ -464,8 +453,7 @@
               "RelativeToolTip": "APILibrarySystem\\Repositories\\Interfaces\\IGenreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T08:25:14.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T08:25:14.171Z"
             }
           ]
         }

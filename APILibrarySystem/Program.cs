@@ -6,7 +6,11 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+    });
 
 builder.Services.AddDbContext<LibraryDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -30,8 +34,8 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<LibraryDbContext>();
-    dbContext.Database.Migrate(); 
-    SeedData.Initialize(dbContext);
+    dbContext.Database.Migrate();
+    SeedData.Initialize(app.Services.CreateScope().ServiceProvider.GetRequiredService<LibraryDbContext>());
 }
 
 if (app.Environment.IsDevelopment())

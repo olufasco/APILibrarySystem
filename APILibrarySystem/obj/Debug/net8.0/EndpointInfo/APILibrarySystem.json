@@ -423,10 +423,6 @@
   "components": {
     "schemas": {
       "AuthorDto": {
-        "required": [
-          "firstName",
-          "lastName"
-        ],
         "type": "object",
         "properties": {
           "id": {
@@ -442,20 +438,16 @@
             "format": "date-time"
           },
           "firstName": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "lastName": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "bio": {
             "type": "string",
             "nullable": true
-          },
-          "dateOfBirth": {
-            "type": "string",
-            "format": "date-time"
           }
         },
         "additionalProperties": false
