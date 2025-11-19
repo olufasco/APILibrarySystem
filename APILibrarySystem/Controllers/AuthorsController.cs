@@ -34,9 +34,11 @@ namespace APILibrarySystem.Controllers
 
             var author = new Author
             {
-                FirstName = dto.FirstName,
+                FirstName = dto.FirstName, 
                 LastName = dto.LastName,
                 Bio = dto.Bio,
+                DateOfBirth = dto.DateOfBirth
+
             };
 
             await _authorRepo.AddAsync(author);
@@ -54,6 +56,7 @@ namespace APILibrarySystem.Controllers
             author.FirstName = dto.FirstName;
             author.LastName = dto.LastName;
             author.Bio = dto.Bio;
+            author.DateOfBirth = dto.DateOfBirth;
 
             _authorRepo.Update(author);
             await _authorRepo.SaveAsync();

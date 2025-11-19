@@ -2,7 +2,7 @@
 
 namespace APILibrarySystem.DTOs
 {
-    public class BookDto : BaseEntity
+    public class BookDto
     {
         public string Title { get; set; } = default!;
         public string ISBN { get; set; } = default!;
