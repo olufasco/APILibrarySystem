@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace APILibrarySystem.DTOs
 {
-    public class GenreDto : BaseEntity
+    public class GenreDto
     {
 
         [Required]
