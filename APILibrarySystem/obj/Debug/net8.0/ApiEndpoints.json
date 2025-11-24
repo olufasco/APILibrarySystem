@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "APILibrarySystem.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "APILibrarySystem.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APILibrarySystem.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "APILibrarySystem.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "APILibrarySystem.Controllers.AuthorsController",
     "Method": "GetAll",
     "RelativePath": "api/Authors",
@@ -90,22 +122,6 @@
   },
   {
     "ContainingType": "APILibrarySystem.Controllers.BooksController",
-    "Method": "Create",
-    "RelativePath": "api/Books",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "APILibrarySystem.DTOs.BookDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "APILibrarySystem.Controllers.BooksController",
     "Method": "Get",
     "RelativePath": "api/Books/{id}",
     "HttpMethod": "GET",
@@ -152,6 +168,22 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APILibrarySystem.Controllers.BooksController",
+    "Method": "Create",
+    "RelativePath": "api/Books/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "APILibrarySystem.DTOs.BookDto",
         "IsRequired": true
       }
     ],

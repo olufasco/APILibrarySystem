@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace APILibrarySystem.Repositories.Implementations
 {
-    public class GenericRepository<T> : IGenericRepository<T> where T : class
+    public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     {
         protected readonly LibraryDbContext _context;
         protected readonly DbSet<T> _dbSet;
@@ -24,7 +24,11 @@ namespace APILibrarySystem.Repositories.Implementations
 
         public virtual void Update(T entity) => _dbSet.Update(entity);
 
-        public virtual void Delete(T entity) => _dbSet.Remove(entity);
+        public virtual void Delete(T entity)
+        {
+            entity.IsDeleted = true;
+            _dbSet.Update(entity);
+        }
 
         public virtual async Task SaveAsync() => await _context.SaveChangesAsync();
     }
