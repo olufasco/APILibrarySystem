@@ -1,13 +1,45 @@
 ﻿using APILibrarySystem.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace APILibrarySystem.Data
 {
     public static class SeedData
     {
-        public static void Initialize(LibraryDbContext context)
+        public static async Task InitializeAsync(
+            LibraryDbContext context,
+            UserManager<ApplicationUser> userManager,
+            RoleManager<IdentityRole> roleManager)
         {
             context.Database.Migrate();
+
+            string[] roleNames = { "Admin", "User" };
+            foreach (var roleName in roleNames)
+            {
+                if (!await roleManager.RoleExistsAsync(roleName))
+                {
+                    await roleManager.CreateAsync(new IdentityRole(roleName));
+                }
+            }
+
+            var adminEmail = "admin@library.com";
+            var adminUser = await userManager.FindByEmailAsync(adminEmail);
+
+            if (adminUser == null)
+            {
+                adminUser = new ApplicationUser
+                {
+                    UserName = adminEmail,
+                    Email = adminEmail,
+                    FullName = "System Admin"
+                };
+
+                var result = await userManager.CreateAsync(adminUser, "Admin@123"); // strong password
+                if (result.Succeeded)
+                {
+                    await userManager.AddToRoleAsync(adminUser, "Admin");
+                }
+            }
 
             if (!context.Authors.Any())
             {
@@ -63,7 +95,7 @@ namespace APILibrarySystem.Data
 
                 context.Books.AddRange(book1, book2);
 
-                context.SaveChanges();
+                await context.SaveChangesAsync();
             }
         }
     }
